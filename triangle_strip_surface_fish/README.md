@@ -7,3 +7,6 @@ The camera viewpoint can be changed by dragging on the sketch window.
 Click the image below to view an exported animation from the sketch
 
 [![Triangle Strip Surface Fish image link](https://github.com/AndrewCraigie/Surfaces-processing/blob/master/triangle_strip_surface_fish/triangle_strip_surface_fish_image_med.png)](http://www.youtube.com/watch?v=FHceObHQADM "Triangle Strip Surface Fish - Processing")
+
+
+https://youtu.be/FHceObHQADM
